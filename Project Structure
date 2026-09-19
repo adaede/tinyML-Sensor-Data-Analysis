@@ -1,0 +1,9 @@
+tinyml-sensor-analysis/
+│── data/
+│── notebooks/
+│── src/
+│   ├── feature_extraction.py
+│   ├── train_tiny_model.py
+│── microcontroller/
+│   └── deployment_code.ino
+│── README.md
